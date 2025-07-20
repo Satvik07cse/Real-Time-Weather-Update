@@ -23,7 +23,7 @@ A Streamlit-powered web app that displays real-time and forecasted weather data 
 - **[Streamlit](https://streamlit.io/)** – for the UI
 - **[Open-Meteo API](https://open-meteo.com/en/docs)** – for hourly weather forecasts
 - **[Nominatim API (OpenStreetMap)](https://nominatim.org/release-docs/latest/api/Search/)** – for city-to-coordinates conversion
-- **Python, Pandas, Requests, Matplotlib**
+- **Python, Pandas, Requests**
 
 ---
 
