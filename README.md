@@ -26,4 +26,5 @@ A Streamlit-powered web app that displays real-time and forecasted weather data 
 - **Python, Pandas, Requests**
 
 ---
+app_file: Weather_dashboard.py
 
